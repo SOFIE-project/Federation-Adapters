@@ -1,5 +1,4 @@
 # Federation-Adapters
-Example Federation Adapters for the SOFIE Framework.
 
 Federation Adapters are used to integrate IoT resources to the SOFIE Federation Architecture *without requiring any changes to the IoT resources themselves*.
 
